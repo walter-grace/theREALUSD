@@ -13,6 +13,9 @@ export default function App() {
         </h2>
         </Card.Title>
         <Card.Body>
+      <h6>
+        (Open in Safari to use AR)
+      </h6>
       <h3
       >Start moving around the object art</h3>
       <h4>Click the AR scan to bring it to life</h4>
